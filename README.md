@@ -13,7 +13,8 @@ Generates a ready-to-run Express server with:
 Includes test cases to validate the generator and server behavior
 
 ## Project Structure
-```json-server/
+```
+json-server/
 ├── generator.js       # Script to generate server.js from JSON
 ├── server.js          # Generated server file (output)
 ├── example.json       # Example JSON configuration
